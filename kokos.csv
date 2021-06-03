@@ -1,0 +1,5 @@
+a,b
+1,kokos
+2,<iframe srcdoc="&lt;img src&equals;x:x onerror&equals;alert&lpar;1&rpar;&gt;"></iframe>
+3,<script>console.log(1)</script>
+4,<script>alert()</script>
